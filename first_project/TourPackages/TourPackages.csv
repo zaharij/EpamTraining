@@ -1,0 +1,8 @@
+Vouchers number,Type,Country,Price ($),Days Number,Transport,Cruise type,Excursion type,Treatment type,Hotel,Food
+12,rest,Egypt,400,10,Plane,,,,Three_stars,HB
+4,treatment,China,600,11,Plane,,,Complex,Three_stars,BB
+15,cruise,India,500,7,Plane,liner,,,,HB
+0,excursion,India,300,5,Plane,,foot,,Four_stars,AI
+5,excursion,Egypt,300,5,Plane,,bus,,Four_stars,HB
+6,rest,Egypt,350,12,Plane,,,,Three_stars,HB
+8,rest,Egypt,450,15,Plane,,,,Four_stars,BB
