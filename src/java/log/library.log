@@ -1,0 +1,16 @@
+
+12:04:08,688 [INFO] UserController.setNewArticle:346 - new article has been created: qweqweqweqwe
+12:09:53,629 [INFO] UserController.setNewArticle:344 - new article has been created: check log
+12:12:19,596 [INFO] UserController.setNewArticle:346 - new article has been created: Check log4j
+12:15:08,166 [INFO] UserController.setNewArticle:346 - new article has been created: My first article check log
+12:18:40,476 [INFO] UserController.setNewArticle:346 - new article has been created: Назва статті check
+12:27:37,436 [INFO] UserController.setNewArticle:347 - new article has been created: Назва статті
+12:44:45,460 [INFO] UserController.setNewArticle:347 - new article has been created: Назва статті
+12:45:10,589 [INFO] UserController.setNewArticle:347 - new article has been created: Назва статті
+12:47:37,334 [INFO] UserController.setNewArticle:347 - new article has been created: Йцуке фвкфі
+13:27:11,191 [INFO] UserController.setNewArticle:347 - new article has been created: Нова стаття
+13:01:11,491 [INFO] UserController.setNewArticle:422 - new article has been created: ???? ?????? ??? ?????
+09:40:12,481 [INFO] UserDao.insertUserIntoDb:137 - SQL Exception: model.dao.impl.UserDao
+09:45:56,458 [INFO] UserDao.insertUserIntoDb:137 - SQL Exception: model.dao.impl.UserDao
+10:31:32,036 [INFO] WriteArticleCommand.execute:39 - new article has been created: Нова стаття
+10:39:07,363 [INFO] WriteArticleCommand.execute:39 - new article has been created: Title
